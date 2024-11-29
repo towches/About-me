@@ -1,0 +1,360 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    height: 2000px;
+    font-family: "Host Grotesk", serif;
+}
+
+
+/* Header*/
+.header {
+    width: 100%;
+    height: 60px;
+    box-shadow: 0 0px 1px black;
+    z-index: 20px;
+    position: fixed;
+    top: 0px;
+    display: flex;
+    background-color: white;
+
+}
+
+
+
+.ul1 {
+    display: flex;
+    margin-top: 20px;
+    margin-left: 10px;
+    list-style: none;
+    font-size: 18px;
+}
+
+
+.li1 {
+    margin-right: 800px;
+
+}
+
+
+.li2{
+font-weight: 990;
+
+
+}
+
+
+.li2,
+.li3,
+.li4,
+.li5 {
+    margin-left: 35px;
+
+}
+
+
+/*Main Section*/
+.mainsection{
+    width: 100%;
+    height: 520px;
+    background-color: #0872b4;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.mainsection h1{
+    margin-top: 150px;
+    font-size: 40px;
+    color: white;
+    margin-bottom: 30px;
+}
+
+.mainsection button{
+border: none;
+border-radius: 5px;
+background-color: white;
+padding: 20px;
+margin-top: 30px;
+width: 250px;
+color: #0872b4;
+font-size: 20px;
+}
+
+
+/* White woman */
+.woman{
+    margin-top: -40px; 
+    text-align: center;
+    margin-bottom: 40px;
+    font-weight: 990;
+}
+
+.woman p{
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+/* Black men*/
+
+.parents1{
+
+display: flex;
+justify-content: center;
+
+}
+
+.parents1 p{
+    color: black;
+    margin-top: 480px;
+    text-align: left;
+    margin-left: -225px;
+font-size: 28px;
+width: 400px;
+}
+
+.parents1 span{
+    color: #666;
+}
+
+.men2{
+margin-left: -130px;
+
+}
+
+
+/* Black woman*/
+
+.parent2{
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+.parent2 p{
+    color: black;
+    margin-top: 150px;
+    font-size: 28px;
+    margin-right: 30px;
+}
+
+.parent2 span{
+
+    color: #666;
+}
+
+.blackwoman{
+margin-left: 30px;
+
+}
+
+
+/* Last Picture */ 
+
+
+
+.parent3{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.parent3 p{
+    color: black;
+    margin-top: 40px;
+    font-size: 29px;
+    margin-left: -90px;
+}
+
+.parent3 span{ 
+    color: #666;
+}
+
+
+
+/*Payment*/
+
+.parent4{
+    width: 100%;
+    height: 800px;
+    background-color: #333;
+    padding-bottom: 200px;
+    margin-top: -200px;
+}
+
+.child1 span{
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-size: 35px;
+}
+
+.child1{
+    text-align: center;
+}
+
+.child1 p{
+    color: gray;
+    font-size: 25;
+}
+
+
+.parent5{
+    display: flex;
+    justify-content: center;
+}
+
+
+.child2{
+    width: 340px;
+    height: 500px;
+    background-color: #333;
+    border: gray 1px solid;
+    padding-top: 10px;
+}
+.child2span{
+    /*margin-top: 10px;*/
+    color: white;
+ /*   margin-left: -230px;*/
+    font-size: 25px;
+  /*  line-height: 50px;*/
+    margin-right: 150px;
+    margin-left: 20px;
+}
+
+.child2 hr{
+    margin-top: 47px;
+    color: gray;
+}
+
+.child3 span,
+.child2 span{
+    color: white;
+
+}
+
+
+.child3{
+    width: 340px;
+    height: 500px;
+    background-color: #333;
+    border: grey 1px solid;
+    padding-top: 10px;
+
+
+
+}
+
+.child3 hr{
+margin-top: 27px;
+color: gray;
+}
+
+.child2span2{
+    color: white;
+    margin-right: -220px;
+    font-size: 25px;
+}
+
+
+.child3span3{
+    color: white;
+    margin-left: 20px;
+    font-size: 25px;
+}
+
+.child3span4{
+    margin-left: 140px;
+    font-size: 25px;
+    color: white;
+}
+
+.for79{
+    color: white;
+    font-size: 15px;
+    margin-left: 250px;
+}
+
+
+
+.check1,
+.check2,
+.check3{
+    color: white;
+    font-size: 10px;
+    margin-top: 30px;
+    margin-right: 10px;
+    margin-left: 20px;
+
+}
+
+.check1{
+    color: white;
+    font-size: 10px;
+    font-family: "Roboto", sans-serif;
+margin-top: 30px;
+margin-right: 10px;
+margin-left: 20px;
+}
+
+
+.parent4 button{
+    border: none;
+    margin-top: 50px;
+    padding: 20px;
+    font-size: 20px;
+    font-family: "Host Grotesk", serif;
+    border-radius: 5px;
+    background-color: white;
+    margin-left: 680px;
+}
+
+.google{
+    color: white;
+    margin-left: 46px;
+}
+
+
+
+
+
+/* Last Section */ 
+
+.parent6{
+    background-color: white;
+height: 300px;
+display: flex;
+justify-content: center;
+margin-top: 30px;
+margin-left: 20px;
+}
+
+.child4{
+background-color: white;
+height: 50;
+width: 200px;
+margin-right: 70px;
+
+
+}
+
+.child4{
+    background-color: white;
+    height: 50px;
+width: 200px;
+}
+
+.box1{
+    color: rgb(8, 114, 180);
+    line-height: 30px;
+}
+
+.box1:hover{
+    cursor: pointer;
+}
+
+.child6{
+    color: #666;
+    text-align: center;
+    margin-top: -100px;
+}
